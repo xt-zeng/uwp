@@ -1,0 +1,13 @@
+# compile outputs
+# bin, obj
+**/bin/
+**/obj/
+
+# packages
+**/packages/
+
+#.suo
+**/*.suo
+
+#.vs
+**/.vs/
